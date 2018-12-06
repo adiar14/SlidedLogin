@@ -28,10 +28,10 @@ public class Control {
 
 	public void initialize() {
 
-		pane1.setStyle("-fx-background-image: url('application/1.jpg')");
-		pane2.setStyle("-fx-background-image: url('application/2.jpg')");
-		pane3.setStyle("-fx-background-image: url('application/3.jpg')");
-		pane4.setStyle("-fx-background-image: url('application/4.jpg')");
+		pane1.setStyle("-fx-background-image: url('1.jpg')");
+		pane2.setStyle("-fx-background-image: url('2.jpg')");
+		pane3.setStyle("-fx-background-image: url('3.jpg')");
+		pane4.setStyle("-fx-background-image: url('4.jpg')");
 
 		backgroundAnimation();
 
